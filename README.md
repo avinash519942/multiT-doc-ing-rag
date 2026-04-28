@@ -23,3 +23,5 @@ ARCHITECTURE HINTS
 change 2
 
 
+git config --global user.email "avinash519942@gmail.com"
+git config --global user.name "Avinash"
